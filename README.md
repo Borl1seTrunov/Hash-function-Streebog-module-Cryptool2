@@ -22,12 +22,12 @@
 2. Скопировать `bin/Streebog.dll` в:
 
 ```text
-%LOCALAPPDATA%\CrypTool2\CrypToolStore\Release\plugins\
+C:\Program Files\CrypTool 2\CrypPlugins\
 ```
 
-Если папки `Release` нет, а есть `Developer`, использовать `Developer`.
+Требуются права администратора.
 
-3. Запустить CrypTool 2 и добавить компонент `Стрибог` в рабочую область.
+3. После копирования запустить CrypTool 2 и добавить компонент `Стрибог` в рабочую область.
 
 ### Вариант 2
 
@@ -35,12 +35,12 @@
 2. Скопировать `bin/Streebog.dll` в:
 
 ```text
-C:\Program Files\CrypTool 2\CrypPlugins\
+%LOCALAPPDATA%\CrypTool2\CrypToolStore\Release\plugins\
 ```
 
-Требуются права администратора.
+Если папки `Release` нет, а есть `Developer`, использовать `Developer`.
 
-3. После копирования запустить CrypTool 2 и добавить компонент `Стрибог` в рабочую область.
+3. Запустить CrypTool 2 и добавить компонент `Стрибог` в рабочую область.
 
 ## Сборка
 
